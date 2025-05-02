@@ -6,7 +6,7 @@
 
 .section1 {
   height: 100vh;
-  background: linear-gradient(0deg, rgba(0,0,0,0.64) 100%, rgba(255,255,255,0) 100%), url(assets/thub.jpg);
+  background: linear-gradient(0deg, rgba(0,0,0,0.64) 100%, rgba(255,255,255,0) 100%), url(/assets/thub.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -21,7 +21,7 @@
   backdrop-filter: blur(2.5px);
   -webkit-backdrop-filter: blur(2.5px);
   border: 1px solid rgba(255, 255, 255, 0.3);
-  cursor: url(assets/Black_cursor.png), auto;
+  cursor: url(/assets/Black_cursor.png), auto;
   /* transform: rotateY(360deg);
   transition: all 5s ease; */
 }
@@ -75,7 +75,7 @@ div.scroll-container img {
 .nav-link {
   padding: 0.2rem 0;
   margin: 5px 0;
-  cursor: url(assets/Black_pointer.png), auto;
+  cursor: url(/assets/Black_pointer.png), auto;
 }
 
 .nav-link.active, .nav-link:hover {
@@ -93,7 +93,7 @@ div.scroll-container img {
   border-style: solid;
   border-color: #ffffff;
   margin-right: 20px;
-  cursor: url(assets/Black_pointer.png), auto !important;
+  cursor: url(/assets/Black_pointer.png), auto !important;
 }
 
 .pjbtn:hover {
@@ -134,7 +134,7 @@ div.scroll-container img {
   color: #ffffff;
   padding: 5px 10px;
   border-radius: 50%;
-  cursor: url(assets/Black_pointer.png), auto !important;
+  cursor: url(/assets/Black_pointer.png), auto !important;
 }
 
 .pnbtn:hover, .soc:hover {
@@ -142,12 +142,12 @@ div.scroll-container img {
 }
 
 .cursor-pointer {
-  cursor: url(assets/Black_pointer.png), auto !important;
+  cursor: url(/assets/Black_pointer.png), auto !important;
 }
 
 @media only screen and (max-width: 720px) {
   .section1 {
-    background: linear-gradient(0deg, rgba(0,0,0,0.64) 100%, rgba(255,255,255,0) 100%), url(assets/thub-m.jpg);
+    background: linear-gradient(0deg, rgba(0,0,0,0.64) 100%, rgba(255,255,255,0) 100%), url(/assets/thub-m.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
