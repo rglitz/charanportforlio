@@ -12,6 +12,14 @@ function About() {
       <div>
         <a
           className="fs-2 text-white cursor-pointer px-2"
+          href="https://github.com/devcgz"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon icon={faGithub} />
+        </a>
+        <a
+          className="fs-2 text-white cursor-pointer px-2"
           href="https://www.linkedin.com/in/devcgz"
           target="_blank"
           rel="noopener noreferrer"
@@ -33,14 +41,6 @@ function About() {
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faInstagram} />
-        </a>
-        <a
-          className="fs-2 text-white cursor-pointer px-2"
-          href="https://github.com/devcgz"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <FontAwesomeIcon icon={faGithub} />
         </a>
       </div>
       <div className="pt-4">
