@@ -13,7 +13,7 @@ function About() {
         <div>
             <a
             className="fs-2 text-white cursor-pointer px-2"
-            href="https://www.linkedin.com/in/yourscharangoud"
+            href="https://www.linkedin.com/in/devcgz"
             target="_blank"
             rel="noopener noreferrer"
             >
@@ -21,7 +21,7 @@ function About() {
             </a>
             <a
             className="fs-2 text-white cursor-pointer px-2"
-            href="https://www.x.com/yourscharangoud"
+            href="https://www.x.com/devcgz"
             target="_blank"
             rel="noopener noreferrer"
             >
@@ -29,7 +29,7 @@ function About() {
             </a>
             <a
             className="fs-2 text-white cursor-pointer px-2"
-            href="https://www.instagram.com/yourscharangoud"
+            href="https://www.instagram.com/devcgz"
             target="_blank"
             rel="noopener noreferrer"
             >

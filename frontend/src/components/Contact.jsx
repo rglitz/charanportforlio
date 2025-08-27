@@ -29,11 +29,11 @@ function Contact() {
                 <div className="fix-b col-md-6 ps-1">
                     <a
                     className="text-white cursor-pointer text-decoration-none"
-                    href="mailto:hello@yourscharangoud.in"
+                    href="mailto:hello@devcgz.com"
                     >
                     <div className="p-2 border border-2 border-white rounded-3">
                         <h5>Email Id</h5>
-                        <h6><FontAwesomeIcon icon={faEnvelope} /> hello@yourscharangoud.in</h6>
+                        <h6><FontAwesomeIcon icon={faEnvelope} /> hello@devcgz.com</h6>
                     </div>
                     </a>
                 </div>
