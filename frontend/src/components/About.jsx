@@ -7,6 +7,7 @@ function About() {
     <>
       <h3>Hey! there...</h3>
       <h1>My Name is Charan</h1>
+      <h1>Sai Charan Goud | DevCGz</h1>
       <h6>A Cool Guy with lot of Enthusiasm in</h6>
       <h6>Entrepreneurship and Technology</h6>
       <div>
