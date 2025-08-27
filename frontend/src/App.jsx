@@ -83,8 +83,8 @@ const App = () => {
           <div className="mob-hide col-md-5 d-flex flex-column justify-content-end">
             <img
               className="img-fluid p-3 ps-0"
-              src="assets/yours-charan-goud-digital.png"
-              alt="yours-charan-goud-digital"
+              src="assets/devcgz-digital.png"
+              alt="sai-charan-goud-digital"
             />
           </div>
 

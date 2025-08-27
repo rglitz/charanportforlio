@@ -6,7 +6,7 @@ function Skills() {
             <h5>Frontend</h5>
             <h6> — HTML | CSS | Bootstrap | TailwindCSS | Javascript | ReactJS | AngularJS</h6>
             <h5>Programming Languages</h5>
-            <h6> — NodeJS | Python | PHP</h6>
+            <h6> — NodeJS | Java | Python | PHP</h6>
             <h5>Database</h5>
             <h6> — MySQL | MongoDB</h6>
             <h5>Digital Marketing</h5>
