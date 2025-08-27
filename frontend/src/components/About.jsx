@@ -48,7 +48,7 @@ function About() {
           <a
             className="text-white cursor-pointer text-decoration-none"
             href="https://resume.devcgz.com"
-            download=""
+            target="_blank"
           >
             View Resume <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
           </a>
