@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faLinkedin, faTwitter, faInstagram, faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faLinkedin, faTwitter, faInstagram, faGithub, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import { faArrowUpRightFromSquare } from "@fortawesome/free-solid-svg-icons";
 
 function About() {
@@ -42,6 +42,14 @@ function About() {
           rel="noopener noreferrer"
         >
           <FontAwesomeIcon icon={faInstagram} />
+        </a>
+        <a
+          className="fs-2 text-white cursor-pointer px-2"
+          href="https://wa.me/447810521671"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FontAwesomeIcon icon={faWhatsapp} />
         </a>
       </div>
       <div className="pt-4">
